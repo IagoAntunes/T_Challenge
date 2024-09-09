@@ -1,0 +1,7 @@
+R: O carro estara mais próximo de Ribeirão Preto do que o caminhão.
+
+
+Justificativa:
+Mesmo o carro perdendo tempo nos pedagios ele chega antes, porque alem de ter uma velocidade
+superior, o tempo em que o carro fica parado no pedagio não é suficiente o bastante para o caminhão
+ganhar uma vantagem consideravel.

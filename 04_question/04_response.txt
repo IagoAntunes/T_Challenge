@@ -1,0 +1,15 @@
+
+As tabelas estão na imagem "tables.png"
+
+Comando Sql
+
+
+SELECT 
+    c.codigo,
+    c.razaoSocial,
+    t.numero
+FROM 
+    Cliente c
+INNER JOIN Telefone t ON c.codigo = t.cliente_id
+INNER JOIN Estado e ON c.estado_id = e.id
+WHERE e.sigla = 'SP';
